@@ -1,0 +1,11 @@
+{
+  "name": "phaser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brian Boyko",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "typescript": "^3.9.5"
+  }
+}
